@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FFE70505</color>
+    <color name="colorPrimaryDark">#FF900000</color>
+    <color name="colorAccent">#FF03DAC5</color>
+    <color name="screenBackground">#FF2196F3</color>
+    <color name="screenBackground2">#FF26C6DA</color>
+    <color name="buttonBackground">#FFBBDEFB</color>
+    <color name="toolbarIconColor">#FF900000</color>
+
+    <color name="productGridBackgroundColor">#FFFFFFFF</color>
+</resources>
